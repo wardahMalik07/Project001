@@ -1,0 +1,9 @@
+git int 
+
+git add . OR git add FileName
+
+git commit -m "Descriptive Message"
+
+git remote add origin RepositoryPath
+
+git push -u origin master
